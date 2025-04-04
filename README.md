@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on: **Student-friendly web and Python projects**
 - 🤔 I’m looking for help with: **APIs, databases, and system-level stuff**
 - 💬 Ask me about: **How to host your website, write clean code, or fix errors 😄**
-- 📫 How to reach me: [Your Email] | [LinkedIn/Instagram]
+- 📫 How to reach me: [[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paarim3@gmail.com)] | [LinkedIn/Instagram]
 - ⚡ Fun fact: I can break and fix my site 10 times in a row — and still have fun doing it!
 
 ---

@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with: **APIs, databases, and system-level stuff**
 - 💬 Ask me about: **How to host your website, write clean code, or fix errors 😄**
 <p align="left">
-  📫 How to reach me:
+ - 📫 How to reach me:
   <a href="mailto:youremail@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/20/fa314a/new-post.png" alt="Email" style="vertical-align: middle; margin-left: 8px;"/>
   </a>

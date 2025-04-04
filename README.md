@@ -15,7 +15,7 @@
    <a href="[https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/paari-mahendran-90294925a/)" target="_blank">
      <img src="https://img.icons8.com/ios-filled/20/0077B5/linkedin.png" alt="LinkedIn" style="vertical-align: middle; margin-left: 8px;"/>
    </a>
-   <a href="https://www.instagram.com/madara_uchiwa" target="_blank">
+   <a href="https://www.instagram.com/madara_uchiwa__." target="_blank">
      <img src="https://img.icons8.com/ios-filled/20/E4405F/instagram-new.png" alt="Instagram" style="vertical-align: middle; margin-left: 8px;"/>
    </a>
  </p>

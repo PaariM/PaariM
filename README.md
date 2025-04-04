@@ -7,18 +7,18 @@
 - 👯 I’m looking to collaborate on: **Student-friendly web and Python projects**
 - 🤔 I’m looking for help with: **APIs, databases, and system-level stuff**
 - 💬 Ask me about: **How to host your website, write clean code, or fix errors 😄**
-- 📫 How to reach me:
- <p align="left">
+<p align="left">
+  📫 How to reach me:
   <a href="mailto:youremail@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/fa314a/new-post.png" alt="Email" style="margin-bottom: -5px;" height="25"/>
+    <img src="https://img.icons8.com/ios-glyphs/20/fa314a/new-post.png" alt="Email" style="vertical-align: middle; margin-left: 8px;"/>
   </a>
   <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn" style="margin-bottom: -5px;" height="25"/>
+    <img src="https://img.icons8.com/ios-filled/20/0077B5/linkedin.png" alt="LinkedIn" style="vertical-align: middle; margin-left: 8px;"/>
   </a>
   <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/E4405F/instagram-new.png" alt="Instagram" style="margin-bottom: -5px;" height="25"/>
+    <img src="https://img.icons8.com/ios-filled/20/E4405F/instagram-new.png" alt="Instagram" style="vertical-align: middle; margin-left: 8px;"/>
   </a>
-  </p>
+</p>
 - ⚡ Fun fact: I can break and fix my site 10 times in a row — and still have fun doing it!
 
 ---

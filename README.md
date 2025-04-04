@@ -18,8 +18,8 @@
    <a href="https://www.instagram.com/yourusername" target="_blank">
      <img src="https://img.icons8.com/ios-filled/20/E4405F/instagram-new.png" alt="Instagram" style="vertical-align: middle; margin-left: 8px;"/>
    </a>
- </p>**
-- ⚡ Fun fact: I can break and fix my site 10 times in a row — and still have fun doing it!
+ </p>
+⚡ Fun fact: I can break and fix my site 10 times in a row — and still have fun doing it!
 
 ---
 

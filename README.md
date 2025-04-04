@@ -9,13 +9,13 @@
 - 💬 Ask me about: **How to host your website, write clean code, or fix errors 😄**
 - 📫 How to reach me:
   <p align="left">
-   <a href="mailto:youremail@gmail.com" target="_blank">
+   <a href="mailto:paarim3@gmail.com" target="_blank">
      <img src="https://img.icons8.com/ios-glyphs/20/fa314a/new-post.png" alt="Email" style="vertical-align: middle; margin-left: 8px;"/>
    </a>
-   <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+   <a href="[https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/paari-mahendran-90294925a/)" target="_blank">
      <img src="https://img.icons8.com/ios-filled/20/0077B5/linkedin.png" alt="LinkedIn" style="vertical-align: middle; margin-left: 8px;"/>
    </a>
-   <a href="https://www.instagram.com/yourusername" target="_blank">
+   <a href="https://www.instagram.com/madara_uchiwa" target="_blank">
      <img src="https://img.icons8.com/ios-filled/20/E4405F/instagram-new.png" alt="Instagram" style="vertical-align: middle; margin-left: 8px;"/>
    </a>
  </p>

@@ -1,6 +1,5 @@
 ## 👋 Hi there! I'm Paari M
-<img align="right" width="370" height="290" src="![GIF](https://media.giphy.com/media/rhZr8u3cvxe0ksf1ej/giphy.gif)"
->
+<img align="right" width="200" height="200" src="![GIF](https://media.giphy.com/media/rhZr8u3cvxe0ksf1ej/giphy.gif)">
 
 ### 🚀 About Me
 

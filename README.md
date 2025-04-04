@@ -1,14 +1,9 @@
-<table>
-  <tr>
-    <td>
-      <h2>👋 Hi there! I'm Paari M</h2>
-      <p>Welcome to my GitHub profile!</p>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/rhZr8u3cvxe0ksf1ej/giphy.gif" width="370" height="290">
-    </td>
-  </tr>
-</table>
+<h2>👋 Hi there! I'm Paari M</h2>
+<p>Welcome to my GitHub profile!</p>
+
+<p align="right">
+    <img src="https://media.giphy.com/media/rhZr8u3cvxe0ksf1ej/giphy.gif" width="370" height="290">
+</p>
 
 ### 🚀 About Me
 

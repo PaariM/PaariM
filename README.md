@@ -2,7 +2,7 @@
 <p>Welcome to my GitHub profile!</p>
 
 <p align="right">
-    <img src="https://media.giphy.com/media/rhZr8u3cvxe0ksf1ej/giphy.gif" width="370" height="290">
+    <img src="https://media.giphy.com/media/rhZr8u3cvxe0ksf1ej/giphy.gif" width="300" height="300">
 </p>
 
 ### 🚀 About Me

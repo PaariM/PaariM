@@ -1,5 +1,5 @@
 ## 👋 Hi there! I'm Paari M
-<img align="right" width="200" height="200" src="![GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdyYTEzYmFud2pwMml4ZDViY3Rpbjk3d2FnMHpqOTg5NGhlZm94eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rhZr8u3cvxe0ksf1ej/giphy.gif)">
+<img align="right" width="300" height="300" src="![GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdyYTEzYmFud2pwMml4ZDViY3Rpbjk3d2FnMHpqOTg5NGhlZm94eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rhZr8u3cvxe0ksf1ej/giphy.gif)">
 
 ### 🚀 About Me
 
